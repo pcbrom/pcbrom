@@ -1,6 +1,6 @@
 # Hello, I am Pedro Brom 👋
 
-I am a researcher and developer focused on technology and computer science, with a strong background in statistics and applied mathematics.
+I am Pedro Brom, a researcher, developer, and experienced consultant specializing in technology and computer science, with a strong background in statistics and applied mathematics. Currently pursuing a PhD in Computer Science, I apply advanced analytical techniques and programming skills in R and Python to develop data-driven solutions, optimize processes, and support strategic decision-making across diverse sectors. My multidisciplinary expertise bridges statistical modeling, artificial intelligence, and business technology, enabling tailored consulting services that address complex challenges effectively.
 
 ## Education and Professional Development
 
