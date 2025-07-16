@@ -4,18 +4,45 @@ I am a researcher and developer focused on technology and computer science, with
 
 ## Education and Professional Development
 
-- PhD candidate in Computer Science (in progress) — University of Brasília (UnB), Brazil  
-- Master's Degree in Statistics (2023) — University of Brasília (UnB), Brazil  
+- PhD candidate in Computer Science (in progress, 2024-)  
+  University of Brasília (UnB), Brazil  
+  Advisor: Li Weigang
+
+- Master's Degree in Statistics (2021–2023)  
+  University of Brasília (UnB), Brazil  
   Thesis: Relationship between variance and amplitude of financial returns  
-- Bachelor's Degree in Statistics (2020) — University of Brasília (UnB), Brazil  
+  Advisor: Raul Yukihiro Matsushita  
+  Keywords: Truncated Lévy flights, Power laws, Financial data
+
+- Specialization in Mathematics and Statistics (2004–2005)  
+  Federal University of Lavras (UFLA), Brazil  
+  Thesis: Numerical Integration — Repeated Triangles Rule  
+  Advisor: Augusto Ramalho de Morais
+
+- Professional training in Embedded Systems (2024–2025)  
+  Federal Institute of Maranhão (IFMA), Brazil  
+  Course load: 160 hours
+
+- Python for Everybody Specialization (2020)  
+  University of Michigan (UMICH), USA
+
+- Data Science Specialization (2016–2017)  
+  Johns Hopkins University (JHU), USA  
+  Thesis: Natural Language Prediction by Neural Networks
+
+- Bachelor’s Degree in Statistics (2014–2020)  
+  University of Brasília (UnB), Brazil  
   Thesis: Explanatory and classificatory modeling by systemic learning of student status at Instituto Federal de Brasília  
-- Bachelor's Degree in Mathematics Teaching (Licenciatura) (2003) — State University of Minas Gerais (UEMG), Brazil  
-- Specialization in Mathematics and Statistics (2005) — Federal University of Lavras (UFLA), Brazil  
-- Specializations and professional development courses:  
-  - Data Science Specialization (Johns Hopkins University, 2016-2017)  
-  - Python for Everybody Specialization (University of Michigan, 2020)  
-  - Embedded Systems Professional Training (IFMA, 2024-2025)  
-  - Multiple courses in R programming, data visualization, Bayesian data analysis, machine learning, and related areas
+  Advisor: Eduardo Yoshio Nakano
+
+- Bachelor’s Degree in Mathematics Teaching (Licenciatura) (2000–2003)  
+  State University of Minas Gerais (UEMG), Brazil  
+  Thesis: The Challenge of Breaking the Dichotomy Between Humanistic and Technological Cultures  
+  Advisor: Luiz Elpídio de Melo Machado
+
+- Undergraduate studies in progress:  
+  - Computer Science (2025-) — Gran Centro Universitário, Brazil  
+  - Commercial Management Technology (2025-) — Federal University of Mato Grosso do Sul (UFMS), Brazil
 
 ## Current Research and Projects
 
