@@ -4,7 +4,7 @@ I am a researcher and developer focused on technology and computer science, with
 
 ## Education and Professional Development
 
-- PhD candidate in Computer Science (in progress, 2024-)  
+- PhD in Computer Science (in progress, 2024-)  
   University of Brasília (UnB), Brazil  
   Advisor: Li Weigang
 
@@ -41,8 +41,8 @@ I am a researcher and developer focused on technology and computer science, with
   Advisor: Luiz Elpídio de Melo Machado
 
 - Undergraduate studies in progress:  
-  - Computer Science (2025-) — Gran Centro Universitário, Brazil  
-  - Commercial Management Technology (2025-) — Federal University of Mato Grosso do Sul (UFMS), Brazil
+  - Computer Science (in progress, 2025-) — Gran Centro Universitário, Brazil  
+  - Commercial Management Technology (in progress, 2025-) — Federal University of Mato Grosso do Sul (UFMS), Brazil
 
 ## Current Research and Projects
 
