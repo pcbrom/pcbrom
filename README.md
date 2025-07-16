@@ -16,7 +16,6 @@ I am a researcher and developer focused on technology and computer science, with
 
 - Professional training in Embedded Systems (2024–2025)  
   Federal Institute of Maranhão (IFMA), Brazil  
-  Course load: 160 hours
 
 - Master’s Degree in Statistics (2021–2023)  
   University of Brasília (UnB), Brazil  
