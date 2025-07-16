@@ -10,7 +10,7 @@ I am a researcher and developer focused on technology and computer science, with
 - Technologist in Commercial Management (in progress, 2025–)
   Federal University of Mato Grosso do Sul (UFMS), Brazil
 
-- PhD candidate in Computer Science (in progress, 2024–)  
+- PhD in Computer Science (in progress, 2024–)  
   University of Brasília (UnB), Brazil  
   Advisor: Li Weigang
 
