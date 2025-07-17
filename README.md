@@ -61,3 +61,4 @@ I am Pedro Brom, a researcher, developer, and experienced consultant specializin
 - [Lattes Curriculum](http://lattes.cnpq.br/0154064396756002)  
 - [ORCID](https://orcid.org/0000-0002-1288-7695)  
 - [LinkedIn](https://www.linkedin.com/in/pcbrom/)
+- [CodersRank](https://profile.codersrank.io/user/pcbrom)
